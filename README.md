@@ -6,7 +6,7 @@ Training and testing shared a limit on total running time within 30 minutes, GPU
 
 ## Dataset
 
-10000 train and 10000 test images selected from MNIST dataset.
+10000 train and 10000 test images selected from MNIST dataset. Extract by running mnist_csv3.py.
 
 ## Preprocessing
 
